@@ -1,9 +1,13 @@
+<div align="center">
+
 # Ivan Vallejos
 
-Backend developer focused on building systems that are reliable by design —
-not by accident.
+</div>
 
-I'm a Systems Analysis student in Argentina, working toward my first role
+Backend developer focused on building distributed systems that are reliable by design. 
+
+
+I'm a Systems Analyst student in Argentina, working toward my first role
 in the industry. My interest is in the construction of scalable services
 and the architectural decisions that make them maintainable over time.
 
@@ -11,10 +15,10 @@ and the architectural decisions that make them maintainable over time.
 
 ## What I build
 
-I care about understanding why a system is structured the way it is —
-not just how to make it work. That means thinking about failure modes
-before they happen, separating concerns deliberately, and documenting
-the tradeoffs that shaped each decision.
+I care about understanding why a system is structured the way it is 
+— not just how to make it work. That means thinking about failure modes 
+before they happen, separating concerns deliberately, 
+and documenting the tradeoffs that shaped each decision.
 
 My current focus is Python backend, with Go as an actively developing
 secondary skill.
