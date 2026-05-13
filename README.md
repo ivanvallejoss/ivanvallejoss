@@ -68,4 +68,4 @@ Docker · GitHub Actions · Railway · Uvicorn · pytest
 ## Links
 
 - [SmartExpense](https://github.com/ivanvallejoss/smartexpense) — the project described above
-- [LinkedIn](https://linkedin.com/in/TU_PERFIL)
+- [LinkedIn](https://linkedin.com/in/ivanvallejoss)
